@@ -1,0 +1,8 @@
+Django
+scikit_learn
+gunicorn
+Pillow
+asgiref
+pytz
+sqlparse
+whitenoise
